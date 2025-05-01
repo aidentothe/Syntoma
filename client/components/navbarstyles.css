@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .link {
+        transition: background-color 0.3s ease;
+        @apply no-underline;
+    }
+
+    .link:hover {
+        background-color: #2c3e50;
+    }
+}

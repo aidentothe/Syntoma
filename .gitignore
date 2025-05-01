@@ -1,0 +1,9 @@
+server/.env.local
+.env.local
+/model/nih_xrays
+/model/logs
+/ml-backend/temp.py
+/ml-backend/models/knee_model/
+/ml-backend/env/
+/ml-backend/models/
+/project/
