@@ -26,5 +26,3 @@ According to the NIH, currently more than 500 million patients have respiratory 
 2. Download models weights from [here](https://drive.google.com/drive/folders/18zy0jjdfXi1cXyumj-PJqhMBeLL9_08g?usp=sharing), create a folder called "models" and put it under ml-backend directory if it doesn't exist.
 3. `cd ml-backend`
 4. `python app.py` to run the backend.
-
-### Created by Ayush Bheemaiah and Jainish Patel for the Congressional App Challenge 2024
